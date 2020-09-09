@@ -1,5 +1,6 @@
 # MERNVR (React 360)
 
+####SIMPLE VR GAME USING MERN STACK !
 #### What you need to run this code
 1. Node (8.11.1)
 2. NPM (5.8.0)
